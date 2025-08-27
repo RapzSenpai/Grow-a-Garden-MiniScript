@@ -1,3 +1,9 @@
+**How to run the script:**  
+---
+Just copy it and paste it in your `executor`
+```
+loadstring(game:HttpGet("https://pastebin.com/raw/dNk3rFfB"))()
+```
 Script Feature:
 ---
 ```
