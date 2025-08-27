@@ -1,6 +1,6 @@
 Script Feature: 
 
-Auto farm 🍎  
-Auto buy seed-shop 🌱 & gear shop ⚙️  
-Anti AFK  
-Infinite Jump  
+- Auto farm 🍎  
+- Auto buy seed-shop 🌱 & gear shop ⚙️  
+- Anti AFK  
+- Infinite Jump  
