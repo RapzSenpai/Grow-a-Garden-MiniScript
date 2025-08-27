@@ -1,4 +1,5 @@
 Script Feature:
+---
 <br>
 - Auto farm 🍎    
 - Auto buy seed-shop 🌱 & gear shop ⚙️    
